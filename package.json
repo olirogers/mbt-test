@@ -1,0 +1,15 @@
+{
+  "name": "mbt-test",
+  "version": "0.0.1",
+  "description": "Test",
+  "scripts": {
+    "deploy": "mbt build"
+  },
+  "author": "Oliver Rogers",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "mbt": "^0.3.4"
+  }
+}

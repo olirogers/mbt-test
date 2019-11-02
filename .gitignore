@@ -1,0 +1,7 @@
+node_modules/
+.idea/
+.mbt-test_mta_build_tmp/
+mta_archives/
+
+.DS_Store
+
